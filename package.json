@@ -1,0 +1,22 @@
+{
+  "name": "express-auth",
+  "version": "1.0.0",
+  "description": "Simple Node & Express App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrana008/express-auth.git"
+  },
+  "author": "Jai Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkrana008/express-auth/issues"
+  },
+  "homepage": "https://github.com/jkrana008/express-auth#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
